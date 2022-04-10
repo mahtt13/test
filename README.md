@@ -38,5 +38,9 @@ Doc for feature 2
 
 
 ## Feature 1
+<<<<<<< HEAD
 
 there is some documentation for feature 1
+=======
+there is some documentation for feature 1
+>>>>>>> e77f857 (My commitfffff)
