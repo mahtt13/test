@@ -32,3 +32,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Feature 1
+
+there is some documentation for feature 1
