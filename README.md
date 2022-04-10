@@ -33,5 +33,9 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+<<<<<<< HEAD
 ## Feature 2
 Doc for feature 2
+
+## Feature 1
+there is some documentation for feature 1
