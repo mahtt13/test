@@ -34,5 +34,4 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Feature 1
-
 there is some documentation for feature 1
