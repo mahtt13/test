@@ -35,3 +35,8 @@ Please make sure to update tests as appropriate.
 
 ## Feature 2
 Doc for feature 2
+
+
+## Feature 1
+
+there is some documentation for feature 1
